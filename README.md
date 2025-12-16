@@ -76,4 +76,4 @@
 ---
 
 ### 📂 소스 코드
-[👉 소스 코드 파일(main.py) 보기](./main.py)
+[👉 소스 코드 파일(Toy_project.py) 보기](./Toy_project.py)
